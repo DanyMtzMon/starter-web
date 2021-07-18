@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 Please fork this repository and then issue Pull Request for review.
 
 ## Deployment
+
+### Copyright
+2021 Git Training
